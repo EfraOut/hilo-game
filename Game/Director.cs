@@ -19,18 +19,19 @@ public class Director
     // Asks the user their guess.
     public void GetInputs()
     {   
-        int firstCard = card.Deal();
-        Console.WriteLine($"The card is: {firstCard}");
+        card.currentCard = card.Deal();
+        Console.WriteLine("");
+        Console.WriteLine($"The card is: {card.currentCard}");
         Console.Write("Higher or Lower? [h/l] ");
-        string userChoice = Console.ReadLine();
+        userChoice = Console.ReadLine();
     }
 
     // Compares the tw cards, depending on what the users inputs
     public void CompareCards()
     {
+        card.nextCard = card.Deal();
         string compare = card.Compare();
-        Console.WriteLine(compare);
-
+        // Console.WriteLine(compare);
         if (compare == userChoice)
         {
             score += 100;
