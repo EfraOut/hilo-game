@@ -1,0 +1,15 @@
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\hilo-game.exe
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\hilo-game.deps.json
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\hilo-game.runtimeconfig.json
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\hilo-game.dll
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\ref\hilo-game.dll
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\bin\Debug\net6.0\hilo-game.pdb
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.csproj.AssemblyReference.cache
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.AssemblyInfoInputs.cache
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.AssemblyInfo.cs
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.csproj.CoreCompileInputs.cache
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.dll
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\ref\hilo-game.dll
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.pdb
+C:\Users\HPLaptop3\OneDrive - BYU-Idaho\Desktop\CSE-210\hilo-game\obj\Debug\net6.0\hilo-game.genruntimeconfig.cache
