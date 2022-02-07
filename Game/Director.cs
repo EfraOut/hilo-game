@@ -31,7 +31,6 @@ public class Director
     {
         card.nextCard = card.Deal();
         string compare = card.Compare();
-        // Console.WriteLine(compare);
         if (compare == userChoice)
         {
             score += 100;

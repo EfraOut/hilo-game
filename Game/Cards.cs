@@ -22,8 +22,6 @@ public class Card
     // Deals the second card and compares it with the first one
     public string Compare()
     {   
-        Console.WriteLine(nextCard);
-        Console.WriteLine(currentCard);
         if (nextCard <= currentCard)
         {
             return "l";
